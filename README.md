@@ -5,7 +5,7 @@
 ## Files
 
 - `Makefile`: Compiles your shell program and runs the tests
-- `README`: This file
+- `README.md`: This file
 - `tsh.c`: The shell program that you will write and hand in
 - `tshref`: The reference shell binary.
 
